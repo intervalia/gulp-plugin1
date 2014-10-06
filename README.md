@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/none/none.svg?branch=master)](https://travis-ci.org/none/none)
+[![Build Status](https://travis-ci.org/intervalia/gulp-plugin1.svg?branch=master)](https://travis-ci.org/intervalia/gulp-plugin1.svg)
 
 ## Information
 
