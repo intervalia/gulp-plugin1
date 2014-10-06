@@ -1,0 +1,42 @@
+{
+  "name": "gulp-plugin1",
+  "version": "1.0.0",
+  "description": "Testing gulp plugins",
+  "homepage": "http://github.com/none/none",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/none/none.git"
+  },
+  "contributors": [
+    {
+      "name": "Michael G Collins",
+      "email": "intervalia@gmail.com"
+    }
+  ],
+  "main": "./src/index.js",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-jshint": "^1.8.5",
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.2"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/spenceralger/gulp-jshint/raw/master/LICENSE"
+    }
+  ],
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
+}
