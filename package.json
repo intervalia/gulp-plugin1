@@ -18,7 +18,11 @@
     "gulpplugin"
   ],
   "dependencies": {
+    "glob": "^4.0.6",
+    "gulp-concat": "^2.4.1",
     "gulp-jshint": "^1.8.5",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.1",
     "gulp-util": "^3.0.1",
     "through2": "^0.6.2"
   },
