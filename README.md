@@ -52,7 +52,7 @@ THE SOFTWARE.
 
 ---
 
-<span style="display: block; padding-left: 10px;">
+<p style="display: block; padding-left: 10px;">
 
 ---
 
@@ -71,6 +71,6 @@ dsadadasdas
 
 ---
 
-</span>
+</p>
 
 ---
