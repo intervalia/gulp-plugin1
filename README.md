@@ -52,7 +52,7 @@ THE SOFTWARE.
 
 ---
 
-<div style="display: block; padding-left: 10px;">
+<div style="padding-left: 10px;">
 
 <hr/>
 
