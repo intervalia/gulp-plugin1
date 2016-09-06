@@ -54,7 +54,7 @@ THE SOFTWARE.
 
 <p style="display: block; padding-left: 10px;">
 
----
+<hr/>
 
 dsadasdas
 dsadas
@@ -63,13 +63,30 @@ dsadasdasd
 
 dsadadasdas
 
-| dasdas | dsadasds | dada |
-|---|---|---|
-|das | dsadadasdasdasdadasdas | dsadasdas |
-| dasdasdasdasdad | dsadadas | dsada |
-| dasdas | das | dadasdasdasdsadas |
+<table>
+  <tr>
+    <th>dasdas</th>
+    <th>dsadasds</th>
+    <th>dada</th>
+  </tr>
+  <tr>
+    <td>das</td>
+    <td>dsadadasdasdasdadasdas</td>
+    <td>dsadasdas</td>
+  </tr>
+  <tr>
+    <td>dasdasdasdasdad</td>
+    <td>dsadadas</td>
+    <td>dsada</td>
+  </tr>
+  <tr>
+    <td>dasdas</td>
+    <td>das</td>
+    <td>dadasdasdasdsadas</td>
+  </tr>
+</table>
 
----
+</hr>
 
 </p>
 
