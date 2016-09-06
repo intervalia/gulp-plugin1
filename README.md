@@ -52,16 +52,16 @@ THE SOFTWARE.
 
 ---
 
-<p style="display: block; padding-left: 10px;">
+<div style="display: block; padding-left: 10px;">
 
 <hr/>
 
-dsadasdas
-dsadas
+<p>dsadasdas</p>
+<p>dsadas</p>
 
-dsadasdasd
+<p>dsadasdasd</p>
 
-dsadadasdas
+<p>dsadadasdas</p>
 
 <table>
   <tr>
@@ -88,6 +88,6 @@ dsadadasdas
 
 </hr>
 
-</p>
+</div>
 
 ---
