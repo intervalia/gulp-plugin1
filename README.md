@@ -50,7 +50,7 @@ THE SOFTWARE.
 
 ## Testing
 
-<div style="margin-left: 10px;">
+<span style="margin-left: 10px;">
 dsadasdas
 dsadas
 
@@ -64,4 +64,4 @@ dsadadasdas
 | dasdasdasdasdad | dsadadas | dsada |
 | dasdas | das | dadasdasdasdsadas |
 
-</div>
+</span>
