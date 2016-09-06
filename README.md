@@ -52,7 +52,7 @@ THE SOFTWARE.
 
 ---
 
-<span style="display: block; margin-left: 10px;">
+<span style="display: block; padding-left: 10px;">
 
 ---
 
