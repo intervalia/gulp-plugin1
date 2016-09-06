@@ -86,7 +86,7 @@ THE SOFTWARE.
   </tr>
 </table>
 
-</hr>
+<hr/>
 
 </div>
 
